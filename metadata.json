@@ -1,0 +1,6 @@
+{
+  "name": "Belajar Pintar Anak",
+  "description": "Aplikasi edukasi anak usia 4-8 tahun yang ramah, ceria, dan aman untuk belajar huruf, angka, warna, hewan, dan kuis bintang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
